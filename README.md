@@ -3,8 +3,7 @@
 <html>
   <head>
       <title>README</title>
-      <style>
-      </style>
+      <<link rel="stylesheet" href="formatR.css">
   
   </head>
 
