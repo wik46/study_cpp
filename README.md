@@ -3,8 +3,7 @@
 <html>
   <head>
       <title>README</title>
-      <<link rel="stylesheet" href="formatR.css">
-  
+      <link rel="stylesheet" href="formatR.css">
   </head>
   <body>
   <h1>study_cpp</h1>
