@@ -2,7 +2,6 @@
 
 <html>
   <head>
-      <title>README</title>
       <link rel="stylesheet" href="formatR.css">
   </head>
   <body>
